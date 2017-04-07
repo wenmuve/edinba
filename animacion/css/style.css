@@ -1,0 +1,16 @@
+ 
+	   .grisbajo{
+   	 animation-delay: 8s;
+  	}
+  	  .grisbajo{
+     -webkit-animation-iteration-count: infinite;
+  	 animation-iteration-count: infinite;
+  	}
+
+ .inox{
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    -o-transform-origin: center center;
+    -moz-transform-origin: center center;
+    animation-delay: 8s;
+  }
