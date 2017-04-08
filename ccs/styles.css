@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:200,600');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.arriba{
+	color: #425cf4;
+	text-align: center;
+	padding-top: 30px;
+	margin: 0 20px 0 auto;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 35px;
+	line-height: 28px;
+	font-weight: 200;
+	position: absolute;
+	text-align: left;
+}
+
+.general{
+	margin: 0 auto 0 auto;
+	width: 650px;
+	padding: 10px 0 0 20px;
+}
+
+.uno, .dos, .tres, .cuatro {
+	display: inline-block;
+	margin: 0 10px 10px 0;
+	height: 280px;
+	width: 280px;
+}
+
+.uno {
+	background-color: #425cf4;
+}
+
+.uno:hover {
+	background-color: #27F1F1;
+}
+
+.dos {
+	background-color: #425cf4;
+}
+
+.dos:hover {
+	background-color: #27F1F1;
+}
+
+.tres {
+	background-color: #425cf4;
+}
+
+.tres:hover {
+	background-color: #27F1F1;
+}
+
+.cuatro {
+	background-color: #425cf4;
+}
+
+.cuatro:hover {
+	background-color: #27F1F1;
+}
+
+.boton {
+  height: 280px;
+  width: 280px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 200;
+  font-size: 45px;
+  text-align: center;
+  color: #425df4;
+  background: #425df4;
+  line-height: 50px;
+  position: absolute;
+  text-decoration:none;
+}
+
+.boton:hover {
+  background: #27f1f1;
+  text-decoration:none;
+}
