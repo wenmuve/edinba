@@ -1,0 +1,41 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+</style>
+    
+{
+ 
+
+}
+.texto {
+	text-align: center;
+    font-family: 'PT+Serif', sans-serif;
+    font-size:30px;
+    color: white;
+    position: center;
+    font-weight: bolder;
+    margin-left: 50px;
+    letter-spacing: 20px;
+
+}
+.texto2 {
+	text-align: center;
+    font-family: 'PT+Serif', sans-serif;
+    font-size:20px;
+    color: white;
+    position: center;
+    font-weight: bolder;
+    margin-left: 50px;
+    letter-spacing: 20px;
+
+
+}
+.zap {
+	background-image: url(../image/zapatos.png);
+	background-position: center;
+	background-size: cover;
+	height: 800px;
+	width: 500px;
+	padding: 20px;
+
+}
+
